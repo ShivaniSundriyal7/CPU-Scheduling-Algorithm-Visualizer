@@ -1,6 +1,8 @@
 # CPU-Scheduling-Algorithm-Visualizer
 
-This CPU Scheduling Simulator is a command-line program written in C++. It allows users to simulate various CPU scheduling algorithms including:
+This CPU Scheduling Simulator is a command-line program written in C++. 
+<\br>
+It allows users to simulate various CPU scheduling algorithms including:
 
 - First-Come, First-Serve (FCFS)
 - Shortest-Job-First (SJF)
